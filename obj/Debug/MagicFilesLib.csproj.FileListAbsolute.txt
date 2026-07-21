@@ -1,6 +1,0 @@
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\bin\Debug\MagicFilesLib.dll
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.AssemblyReference.cache
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\obj\Debug\MagicFilesLib.dll
-C:\Users\pc\Downloads\Week1\NUnit and Moq\Moq\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
